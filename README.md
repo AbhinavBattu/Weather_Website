@@ -66,12 +66,14 @@ Make sure you have the following installed:
   1. Go inside the server folder using (cd weatherApp-backend)
   2. create a .env folder with the following variables.
 
+      ```
       PORT=5000
       MONGO_DB_URI='YOUR MONODB DATABASE CONNECTION URL'
       ApiKey='YOUR OPEN WEATHER MAP API KEY'  //First SignUp on openweather website and create your api key.
+      ```
 
-  3. In the server folder run the command (npm i) to install all the node modules listed int the package.json file.
-  4. Run the (npm start) command to run the backend server and successfully connect to the Mongodb using mongoose.
+  4. In the server folder run the command (npm i) to install all the node modules listed int the package.json file.
+  5. Run the (npm start) command to run the backend server and successfully connect to the Mongodb using mongoose.
   
     Commands:
 
