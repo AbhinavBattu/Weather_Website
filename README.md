@@ -38,12 +38,15 @@ The website uses data roll-ups and aggregates to provide insightful weather summ
 ## 📸 Screenshots
 
 ![Daily Summary Screenshot](screenshots/Daily-Summary.png)
+<br/>
 *Daily summary with temperature and weather conditions.*
 
 ![Weekly Summary Screenshot](screenshots/Weekly-Summary.png)
+<br/>
 *Weekly weather trends and summary.*
 
 ![Alert Screenshot](screenshots/Alert.png)
+<br/>
 *Weather Threshold breach Alert*
 
 ## 🚀 Getting Started
