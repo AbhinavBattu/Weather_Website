@@ -76,7 +76,7 @@ Make sure you have the following installed:
   5. Run the (npm start) command to run the backend server and successfully connect to the Mongodb using mongoose.
   
 
-      ```bash
+      ```
       cd weatherApp-backend
       npm i
       npm start
@@ -88,7 +88,7 @@ Make sure you have the following installed:
   3. Run the (npm start) command to run the frontend.
 
 
-    ```bash
+    ```
     cd weatherApp-frontend
     npm i
     npm start
