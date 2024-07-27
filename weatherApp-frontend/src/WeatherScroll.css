@@ -1,0 +1,24 @@
+.comp {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+.comp h2{
+    color:white;
+    font-size: 1.5em;
+    padding:6px;
+}
+.weather-scroll {
+    display: flex;
+    overflow-x: scroll;
+}   
+
+.weather-scroll::-webkit-scrollbar {
+    height: 8px;
+}
+
+.weather-scroll::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 4px;
+}
