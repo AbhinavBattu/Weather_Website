@@ -88,11 +88,11 @@ Make sure you have the following installed:
   3. Run the (npm start) command to run the frontend.
 
 
-    ```
-    cd weatherApp-frontend
-    npm i
-    npm start
-    ```
+      ```
+      cd weatherApp-frontend
+      npm i
+      npm start
+      ```
 
 The app will be running at `http://localhost:3000` and the server at `http://localhost:5000`.
 
