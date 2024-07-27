@@ -1,6 +1,6 @@
-### WeatherApp
+# WeatherApp
 
-# 🌦️ Live Weather Updates Website
+## 🌦️ Live Weather Updates Website
 
 ![Weather Website](screenshots/website-overview.png)
 
@@ -57,9 +57,9 @@ Make sure you have the following installed:
 
 ### Installation
 
-  # Clone the repository:
+  # 1. Clone the repository:
 
-  # Running the backend.
+  # 2. Running the backend.
   1. Go inside the server folder using (cd weatherApp-backend)
   2. create a .env folder with the following variables.
 
@@ -78,7 +78,7 @@ Make sure you have the following installed:
       npm start
       ```
 
-  # Running the frontend.
+  # 3. Running the frontend.
   1. Go inside the frontend folder(cd weatherApp-frontend).
   2. In the frontend run command (npm i) to install all the node modules listed int  the package.json file.
   3. Run the (npm start) command to run the frontend.
