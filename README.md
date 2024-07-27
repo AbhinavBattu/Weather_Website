@@ -75,8 +75,6 @@ Make sure you have the following installed:
   4. In the server folder run the command (npm i) to install all the node modules listed int the package.json file.
   5. Run the (npm start) command to run the backend server and successfully connect to the Mongodb using mongoose.
   
-    Commands:
-    <br/>
 
       ```bash
       cd weatherApp-backend
@@ -89,8 +87,6 @@ Make sure you have the following installed:
   2. In the frontend run command (npm i) to install all the node modules listed int  the package.json file.
   3. Run the (npm start) command to run the frontend.
 
-    Commands:
-    <br/>
 
     ```bash
     cd weatherApp-frontend
