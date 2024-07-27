@@ -36,18 +36,18 @@ Welcome to the Live Weather Updates Website! This single-page application is bui
 The website uses data roll-ups and aggregates to provide insightful weather summaries. Daily summaries are stored and displayed at the end of each day, and weekly summaries give you an overview of the weather trends.
 
 ## 📸 Screenshots
-
+*Daily summary with temperature and weather conditions.*
 ![Daily Summary Screenshot](screenshots/Daily-Summary.png)
 <br/>
-*Daily summary with temperature and weather conditions.*
 
+*Weekly weather trends and summary.*
 ![Weekly Summary Screenshot](screenshots/Weekly-Summary.png)
 <br/>
-*Weekly weather trends and summary.*
 
+*Weather Threshold breach Alert*
 ![Alert Screenshot](screenshots/Alert.png)
 <br/>
-*Weather Threshold breach Alert*
+
 
 ## 🚀 Getting Started
 
