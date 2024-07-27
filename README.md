@@ -62,51 +62,51 @@ Make sure you have the following installed:
 
   # 1. Clone the repository.
   
-      ```
-      git clone https://github.com/AbhinavBattu/Weather_Website.git
-      ```
+  ```
+  git clone https://github.com/AbhinavBattu/Weather_Website.git
+  ```
         
   # 2. Running the backend.
   1. Go inside the server folder.
      
-       ```
-       cd weatherApp-backend
-       ```
+   ```
+   cd weatherApp-backend
+   ```
   2. create a .env folder with the following variables.
 
-      ```
-      PORT=5000
-      MONGO_DB_URI='YOUR MONODB DATABASE CONNECTION URL'
-      ApiKey='YOUR OPEN WEATHER MAP API KEY'  //SignUp on openweather website and create your api key.
-      ```
+  ```
+  PORT=5000
+  MONGO_DB_URI='YOUR MONODB DATABASE CONNECTION URL'
+  ApiKey='YOUR OPEN WEATHER MAP API KEY'  //SignUp on openweather website and create your api key.
+  ```
 
   3. In the server folder run the command (npm i) to install all the node modules listed int the package.json file.
      
-      ```
-      npm i
-      ```
+  ```
+  npm i
+  ```
   4. Run the (npm start) command to run the backend server and successfully connect to the Mongodb using mongoose.
      
-      ```
-      npm start
-      ```
+  ```
+  npm start
+  ```
 
   # 3. Running the frontend.
   1. Go inside the frontend folder(cd weatherApp-frontend).
      
-     ```
-     cd weatherApp-frontend
-     ```
+   ```
+   cd weatherApp-frontend
+   ```
   2. In the frontend run command (npm i) to install all the node modules listed int  the package.json file.
      
-     ```
-     npm i
-     ```
+   ```
+   npm i
+   ```
   3. Run the (npm start) command to run the frontend.
      
-      ```
-      npm start
-      ```
+  ```
+  npm start
+  ```
 
 The app will be running at `http://localhost:3000` and the server at `http://localhost:5000`.
 
