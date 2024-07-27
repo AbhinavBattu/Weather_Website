@@ -60,7 +60,7 @@ Make sure you have the following installed:
 
 ### Installation
 
-  # 1. Clone the repository:
+  # 1. Clone the repository.
 
   # 2. Running the backend.
   1. Go inside the server folder using (cd weatherApp-backend)
@@ -69,7 +69,7 @@ Make sure you have the following installed:
       ```
       PORT=5000
       MONGO_DB_URI='YOUR MONODB DATABASE CONNECTION URL'
-      ApiKey='YOUR OPEN WEATHER MAP API KEY'  //First SignUp on openweather website and create your api key.
+      ApiKey='YOUR OPEN WEATHER MAP API KEY'  //SignUp on openweather website and create your api key.
       ```
 
   4. In the server folder run the command (npm i) to install all the node modules listed int the package.json file.
