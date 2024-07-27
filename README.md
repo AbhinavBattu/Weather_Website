@@ -62,9 +62,9 @@ Make sure you have the following installed:
 
   # 1. Clone the repository.
   
-      ```
-      git clone https://github.com/AbhinavBattu/Weather_Website.git
-      ```
+        ```
+        git clone https://github.com/AbhinavBattu/Weather_Website.git
+        ```
   # 2. Running the backend.
   1. Go inside the server folder.
      
@@ -103,9 +103,9 @@ Make sure you have the following installed:
      ```
   3. Run the (npm start) command to run the frontend.
      
-    ```
-    npm start
-    ```
+      ```
+      npm start
+      ```
 
 The app will be running at `http://localhost:3000` and the server at `http://localhost:5000`.
 
