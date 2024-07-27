@@ -61,36 +61,43 @@ Make sure you have the following installed:
 ### Installation
 
   # 1. Clone the repository.
-
+  
+      ```
+      git clone https://github.com/AbhinavBattu/Weather_Website.git
+      ```
   # 2. Running the backend.
-  1. Go inside the server folder using (cd weatherApp-backend)
-  2. create a .env folder with the following variables.
+  1. Go inside the server folder.
+         ```
+          cd weatherApp-backend
+         ```
+  3. create a .env folder with the following variables.
 
-      ```
-      PORT=5000
-      MONGO_DB_URI='YOUR MONODB DATABASE CONNECTION URL'
-      ApiKey='YOUR OPEN WEATHER MAP API KEY'  //SignUp on openweather website and create your api key.
-      ```
+        ```
+        PORT=5000
+        MONGO_DB_URI='YOUR MONODB DATABASE CONNECTION URL'
+        ApiKey='YOUR OPEN WEATHER MAP API KEY'  //SignUp on openweather website and create your api key.
+        ```
 
   4. In the server folder run the command (npm i) to install all the node modules listed int the package.json file.
-  5. Run the (npm start) command to run the backend server and successfully connect to the Mongodb using mongoose.
-  
-
-      ```
-      cd weatherApp-backend
-      npm i
-      npm start
-      ```
+        ```
+        npm i
+        ```
+  6. Run the (npm start) command to run the backend server and successfully connect to the Mongodb using mongoose.
+        ```
+        npm start
+        ```
 
   # 3. Running the frontend.
   1. Go inside the frontend folder(cd weatherApp-frontend).
-  2. In the frontend run command (npm i) to install all the node modules listed int  the package.json file.
-  3. Run the (npm start) command to run the frontend.
-
-
+       ```
+       cd weatherApp-frontend
+       ```
+  3. In the frontend run command (npm i) to install all the node modules listed int  the package.json file.
+       ```
+       npm i
+       ```
+  5. Run the (npm start) command to run the frontend.
       ```
-      cd weatherApp-frontend
-      npm i
       npm start
       ```
 
