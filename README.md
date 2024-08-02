@@ -40,7 +40,7 @@ The website uses data roll-ups and aggregates to provide insightful weather summ
 ![Daily Summary Screenshot](screenshots/Daily-Summary.png)
 <br/>
 
-*Weekly weather trends and summary(previous 7 days)*
+*Weekly weather trends and summary (previous 7 days)*
 ![Weekly Summary Screenshot](screenshots/Weekly-Summary.png)
 <br/>
 
